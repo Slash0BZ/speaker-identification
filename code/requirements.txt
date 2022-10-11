@@ -1,0 +1,7 @@
+allennlp==2.1.0
+allennlp-models==2.1.0
+ntlk
+spacy
+transformers==4.3.3
+torch==1.8.1
+numpy
